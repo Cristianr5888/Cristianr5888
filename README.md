@@ -1,4 +1,4 @@
-### Hi, I'm Cristian Jimenez R.👋
+### Hi, I'm Cristian Jiménez 👋
 
 <!--
 
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)](https://dart.dev/)
+https://img.shields.io/badge/HTML
 
 ## About me
 I'm Software Engineer (Universidad Politécnica del Estado de Nayarit) <br>
