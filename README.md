@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 
-## CRVANCED
+## Personal brand
 
 It started as a nickname, now has slowly become a sort of personal brand which includes the first two initials of my name, followed by the word 'vanced' that doesn't have a certain meaning but is often interpreted as an abbreviation of advanced
 
-
-
+<img src="weight-c.png" style="width:400px" >
 
 
