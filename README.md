@@ -36,8 +36,5 @@ Here are some ideas to get you started:
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 
 
-## About me
-
-I'm Software Engineer (Universidad Politécnica del Estado de Nayarit) <br>
 
 
