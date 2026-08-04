@@ -1,5 +1,5 @@
 # Hi, I'm Cristian Jiménez 👋
-
+# Hola! soy Cristian Jiménez 👋
 <!--
 
 Here are some ideas to get you started:
@@ -35,14 +35,24 @@ Here are some ideas to get you started:
 
 
 
-## Interest in learning
+## Interest in learning | Interés en aprender:
 
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 
+## Marca personal
+
+Desde siempre he sido fan de la astronomía y todo lo relacionado al espacio,
+            Nova Moon nace de la idea de querer combinar la palabra nova que significa 'nueva' en latín
+            pero que actualmente se usa para describir un evento astronómico en el que una estrella
+            aumenta su brillo de forma muy rápida, dando la impresión que ha nacido una 'nueva estrella',
+            y la luna que es nuestro satélite natural de la tierra,
+            por lo que decidí combinar ambas palabras y así surgió Nova Moon
+            y que poco a poco se ha convertido en una especie de marca personal para mí.
+
 ## Personal brand
 
-It started as a nickname, now has slowly become a sort of personal brand which includes the first two initials of my name, followed by the word 'vanced' that doesn't have a certain meaning but is often interpreted as an abbreviation of advanced
+I have always been a fan of astronomy and everything related to space. 'Nova Moon' was born from the idea of wanting to combine the word 'nova', which means 'new' in Latin but is currently used to describe an astronomical event where a star rapidly increases its brightness, giving the impression that a 'new star' has been born, and the moon, which is our natural satellite of the Earth. Therefore, I decided to combine both words, and thus 'Nova Moon' emerged, which has gradually become a sort of personal brand for me.
 
-<img src="weight-c.png" style="width:400px" >
+<img src="novav.png" style="width:400px" >
 
 
