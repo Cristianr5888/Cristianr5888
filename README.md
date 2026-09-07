@@ -58,6 +58,6 @@ Desde siempre he sido fan de la astronomía y todo lo relacionado al espacio,
 
 I have always been a fan of astronomy and everything related to space. 'Nova' was born from the idea of wanting to combine the word 'nova', which means 'new' in Latin but is currently used to describe an astronomical event where a star rapidly increases its brightness, giving the impression that a 'new star' has been born, and the moon, which is our natural satellite of the Earth. Therefore, I decided to combine both concepts, and thus 'Nova' emerged, which has gradually become a sort of personal brand for me.
 
-<img src="novav.png" style="width:400px" >
+<img src="nova_white.png" style="width:400px" >
 
 
